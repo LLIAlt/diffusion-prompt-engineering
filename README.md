@@ -8,15 +8,15 @@ A collection of prompt engineering and AI assistant projects focused on modern d
 
 ### FLUX.1 Dev Prompt Optimizer
 
-Optimizes raw prompts for FLUX.1 Dev using structured reasoning and model-specific best practices.
+- Optimizes raw prompts for FLUX.1 Dev using structured reasoning and model-specific best practices.
 -------------------------------
 ### Qwen Image Prompt Optimizer
 
-Optimizes prompts for Qwen Image with emphasis on typography, prompt adherence, and artifact prevention.
+- Optimizes prompts for Qwen Image with emphasis on typography, prompt adherence, and artifact prevention.
 -------------------------------
 ### Diffusion Expert Assistant
 
-Knowledge-driven AI assistant capable of:
+- Knowledge-driven AI assistant capable of:
 
 - Model selection
 - Model comparison
