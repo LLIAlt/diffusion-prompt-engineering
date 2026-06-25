@@ -201,7 +201,7 @@ IF [TYPE-T] (Text Rendering):
 LIGHTNING LoRA (fast):
 - steps 4-8, CFG 1.0
 
-## STEP 6 - OUTPUT FORMAT:
+## STEP 7 - OUTPUT FORMAT:
 
 Return exactly this structure, nothing else:
 
