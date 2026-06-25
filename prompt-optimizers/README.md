@@ -17,4 +17,7 @@ The goal is to standardize and improve model outputs with minimal setup.
   Ability to identify subjects, objects, scenes, and landscapes. Improves requirements, performs self-analysis, and ensures adherence to the characteristics of diffusion models.
 ------------------------------
 
+## How to use?
+- Just put them with your prompt in ChatGPT / Gigachat / Claude / Deepseek / Gemini and others.
+-------------------------------
 ## You can see the examples at the end of .md files.
